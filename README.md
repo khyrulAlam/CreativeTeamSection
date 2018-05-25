@@ -6,4 +6,4 @@ When I watched [Target Process Website Team Section](https://www.targetprocess.c
 
 [Orginal Design](https://www.targetprocess.com/about/)
 
-[Here Is My](https://khyrulalam.github.io/CreativeTeamSection/)
+[Here is mine](https://khyrulalam.github.io/CreativeTeamSection/)
